@@ -1,5 +1,5 @@
 {
-  "name": "TLog Plus Syslog Stream",
+  "name": "TLogPlusSyslogStream",
   "version": "1.0.0",
   "description": "Streamer for TLogPlus",
   "keywords": "logging, communication",
